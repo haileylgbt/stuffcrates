@@ -1,60 +1,14 @@
-body {
-  text-align: center;
-	font-family: monospace;
-}
-
-h1 {
+.title {
 	font-size: 30px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 33px;
 }
-h3 {
+.subtitle {
 	font-size: 17px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 18.7px;
-}
-p {
-	font-size: 14px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 20px;
-}
-blockquote {
-	font-size: 17.5px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 25px;
-}
-pre {
-	font-size: 13px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 18.5714px;
-}
-
-.button {
-  font-family: monospace;
-  border: none;
-  color: white;
-  padding: 20px;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 8px;
-  background-color: grey;
-}
-
-.button:hover {
-    border: 2px solid grey;
-    background-color: white; /* Green */
-    color: grey;
 }
